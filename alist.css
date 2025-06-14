@@ -15,6 +15,10 @@ Koyuki
 /* 静态壁纸 */
 
 /* 动态视频壁纸 */
+/* 将下列代码加入Alist管理后台设置>全局>自定义内容
+<video class="player" autoplay muted loop>
+  <source src="视频地址" type="video/mp4">
+</video> */
 body {
   position: relative;
   margin: 0;
